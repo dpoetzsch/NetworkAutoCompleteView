@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NetworkAutoCompleteView.iml" filepath="$PROJECT_DIR$/NetworkAutoCompleteView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-network-autocomplete-view.iml" filepath="$PROJECT_DIR$/android-network-autocomplete-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
